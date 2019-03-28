@@ -1,0 +1,14 @@
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csprojAssemblyReference.cache
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Form1.resources
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Properties.Resources.resources
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.GenerateResource.cache
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Addf.resources
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Showf.resources
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Searchf.resources
+D:\Cloud Storage\Drive\School Files\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Editf.resources
